@@ -1,0 +1,9 @@
+npm i
+
+if problem - update version show modules
+
+yarn run serve
+
+or:
+yarn run 
+serve
